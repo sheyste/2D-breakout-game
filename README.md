@@ -1,6 +1,7 @@
 # 2D-breakout-game
 2D breakout game using pure JavaScript
 
+![image](https://github.com/sheyste/2D-breakout-game/assets/86936264/deff477e-1475-4b5f-8d72-fdbcb0b93fa8)
 
 
 
